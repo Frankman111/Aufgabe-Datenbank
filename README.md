@@ -1,2 +1,2 @@
 # Aufgabe-Datenbank
-Widerholung Datenbank von 22-02-2020
+Wiederholung Datenbank von 22-02-2020
